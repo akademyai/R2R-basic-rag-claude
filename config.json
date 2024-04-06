@@ -18,7 +18,7 @@
     }
   },
   "language_model": {
-    "provider": "litellm"
+    "provider": "litellm",
     "model": "claude-3-opus-20240229"
   },
   "logging_database": {
